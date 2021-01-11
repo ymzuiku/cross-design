@@ -1,0 +1,17 @@
+.head {
+  /* position: sticky; */
+  /* top: 0px; */
+  padding-bottom: var(--cr-space-2);
+  background: rgb(var(--cr-bg-color));
+}
+
+.head2 {
+  /* position: sticky; */
+  /* top: 50px; */
+  padding-bottom: var(--cr-space-2);
+  background: rgb(var(--cr-bg-color));
+}
+
+.button {
+  box-shadow: var(--cr-box-shadow-3);
+}
