@@ -1,4 +1,5 @@
 const nextConfig = {
+  basePath: "#/",
   assetPrefix: "./", //加前缀
 };
 
